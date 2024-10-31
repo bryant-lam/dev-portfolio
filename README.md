@@ -2,7 +2,7 @@
 
 This website is both a portfolio and a personal project. After refining my skills in JavaScript and TypeScript, I took on this challenge to showcase what I've learned and done.
 
-![demo](https://github.com/bryant-lam/dev-portfolio/blob/master/public/portfolio_demo.png)
+![demo](https://github.com/bryant-lam/dev-portfolio/blob/master/public/portfolio_demo.jpg)
 
 
 ## Technologies Used
