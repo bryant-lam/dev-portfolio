@@ -9,7 +9,7 @@ This website is both a portfolio and a personal project. After refining my skill
 
 - **Next.js**: Next.js is a React Framework that improves performance for static site generation and makes it easy to deploy to Vercel.
 
-- **Aceternity-UI**: Aceternity-UI is a customizable and flexible component library that I used to add Framer Motion to my content. 
+- **Aceternity-UI + Magic UI**: These two are customizable and flexible component libraries that I used to add Framer Motion to my content. 
 
 - **tailwindcss**: tailwindcss is a CSS Framework that seamlessly integrates responsive design directly into HTML.
 
