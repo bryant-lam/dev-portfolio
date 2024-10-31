@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Bryant's Dev Portfolio 🖥️
 
-## Getting Started
+This website is both a portfolio and a personal project. After refining my skills in JavaScript and TypeScript, I took on this challenge to showcase what I've learned and done.
 
-First, run the development server:
+![demo](https://github.com/bryant-lam/dev-portfolio/blob/master/public/portfolio_demo.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js**: Next.js is a React Framework that improves performance for static site generation and makes it easy to deploy to Vercel.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Aceternity-UI**: Aceternity-UI is a customizable and flexible component library that I used to add Framer Motion to my content. 
 
-## Learn More
+- **tailwindcss**: tailwindcss is a CSS Framework that seamlessly integrates responsive design directly into HTML.
 
-To learn more about Next.js, take a look at the following resources:
+- **Figma**: Figma is a design tool that I used to design and prototype my portfolio. Check out my design [here](https://github.com/bryant-lam/dev-portfolio/tree/master/design).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎨 Color Reference
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Color          | Hex                                                                |
+| -------------- | ------------------------------------------------------------------ |
+| Black          | ![#182628](https://via.placeholder.com/10/182628?text=+) `#182628` |
+| White          | ![#F2F2F2](https://via.placeholder.com/10/F2F2F2?text=+) `#F2F2F2` |
+| Teal           | ![#65CCB8](https://via.placeholder.com/10/65CCB8?text=+) `#65CCB8` |
+| Green          | ![#3B945E](https://via.placeholder.com/10/3B945E?text=+) `#3B945E` |
+| Light Green    | ![#57ba98](https://via.placeholder.com/10/57ba98?text=+) `#57ba98` |
