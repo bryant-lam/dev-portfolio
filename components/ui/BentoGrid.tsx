@@ -2,7 +2,7 @@
 "use client";
 import { cn } from "@/lib/utils";
 import { OrbitingCirclesDemo } from "./OrbitingCirclesDemo";
-import Lottie from "react-lottie";
+import { Lottie } from "lottie-react";
 import { useState } from "react";
 import animationData from "@/data/confetti.json";
 import MagicButton from "./MagicButton";
@@ -115,17 +115,14 @@ export const BentoGridItem = ({
           <div className="relative inline-flex justify-center">
             <div className={`absolute -bottom-5 pointer-events-none z-40`}>
               <Lottie
-                options ={{
-                  loop: copied,
-                  autoplay: copied,
-                  animationData: animationData,
-                  rendererSettings: {
-                    preserveAspectRatio: "xMidYMid slice"
-                  }
-                }} 
-                height={200}
-                width={200}
-                />
+                src={animationData}
+                loop={copied}
+                autoplay={copied}
+                rendererSettings={{
+                  preserveAspectRatio: "xMidYMid slice"
+                }}
+                style={{ height: 200, width: 200 }}
+              />
             </div>
             <MagicButton
               title={copied ? "Email copied" : "Copy my email"}
