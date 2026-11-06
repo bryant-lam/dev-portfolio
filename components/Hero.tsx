@@ -69,7 +69,7 @@ const Hero = () => {
       min-[1100px]:mt-5 min-[1100px]:bottom-40 min-[1100px]:w-[40%] 
       md:w-[80%] md:text-left md:px-2 md:justify-center md:flex">
         <p>
-          I&apos;m a Computer Science graduate <span className="font-extrabold">learning fast</span> to become a Full-Stack Developer.
+          <span className="font-bold">CompTIA A+ certified</span> with hands-on experience in PC building, troubleshooting, user support, and technical problem-solving.
         </p>
       </div>
 
